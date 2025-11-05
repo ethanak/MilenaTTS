@@ -1,0 +1,4 @@
+#!/bin/bash
+if play -n -q synth 0.01 sine 440 vol 0 contrast ; then
+	echo contrast
+fi
