@@ -281,6 +281,7 @@ cpu $S
 CSI $S
 CV s~'iwi $1
 cwks-(u|em|ie) cewuka³~'es%
+DEA di~'i~'~!ej
 DFO	$S
 dkf-(u|em|ie) deka~'ef%
 DNA $S
@@ -2936,7 +2937,7 @@ hinz#(sfin) hinc%
 hobbes#(sfin) ho³bs%
 hoesick#(kfin) hez~'ik%
 holmes#(sfin) holms%
-hope'#(apefin) ho³p
+hope'#(apefin) ho³p%
 hopewell#(lfin) ho³p³el%
 houseman#(nfin) ha³smen%
 howes#(sfin) ha³es%
@@ -2951,6 +2952,8 @@ jacobs#(sfin)	d¿ekobs%
 jacquard#(dfin) ¿akard%
 jacquard	¿ak~!ard
 jagger#(rfin)	d¿eger%
+jarre ¿ar
+jarre'#(apefin) ¿ar%
 javer#(tfin)	¿aver%
 javert ¿aver $1
 johnson#(nfin) d¿onson%
