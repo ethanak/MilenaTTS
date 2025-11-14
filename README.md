@@ -21,6 +21,10 @@ Konieczne do instalacji pakiety i najprostszy sposób instalacji: [ubuntu instal
 Moduł Pythona 3 dla Linuksa umożliwiający korzystanie z bibliotek Mileny.
 
 
+## milena-words
+
+Plik zawierający słowa o znanej wymowie, dla dykcjonarza i milena_abc.
+
 
 
 
