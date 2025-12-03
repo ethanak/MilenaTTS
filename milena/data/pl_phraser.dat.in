@@ -525,12 +525,12 @@ number ym:yf:ym z e:predkoscia co e:najmniejwy # pl:gen
 
 
 number mx:fx:mx oko這 # pl:nom
-number md:fd:md od|do|oko這|zza|sprzed|spoza # sg:gen
-number ym:yf:ym od|do|oko這|zza|sprzed|spoza # pl:gen
+number md:fd:md od|do|oko這|zza|z|i|sprzed|spoza # sg:gen
+number ym:yf:ym od|do|oko這|zza|z|i|sprzed|spoza # pl:gen
 number mx:fx:mx za|przez|w e:okoponade # gen
 
-number sm:sf:sm przed|z|za|ze #T pl:gen
-number sm:sf:sm przed|z|za|ze #t pl:ins
+number sm:sf:sm przed|z|i|za|ze #T pl:gen
+number sm:sf:sm przed|z|i|za|ze #t pl:ins
 number sm:sf:sm przed|z|za e:okoponadymi #T pl:gen
 number sm:sf:sm przed|z|za e:okoponadymi #t pl:ins
 number sm:sf:sm przed|z|za mniej wi璚ej #T pl:gen
