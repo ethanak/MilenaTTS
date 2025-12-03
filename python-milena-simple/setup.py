@@ -6,7 +6,7 @@ module1 = Extension('milenasimple',
 
 
 setup (name = 'python-milena',
-       version = '0.3.1',
+       version = '0.3.2',
        description = 'Milena TTS Python interface',
        ext_modules = [module1]
        ,packages = ["milena"]

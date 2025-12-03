@@ -148,14 +148,14 @@ static int MilenaSim_init(mil_MilenaSimObject *self,
                 &flags,
                 &ivoice,
                 &rhvoice)) return -1;
-    
+    if ((flags & 8) && flags != -1) bookmode=morfologik=0;
     if (flags == -1) {
         flags=MILENA_PHR_IGNORE_INFO;
     }
     else {
+        
         flags ^= MILENA_PHR_IGNORE_INFO;
     }
-    if (flags & 8) bookmode=morfologik=0;
     self->buf1=malloc(self->blen1=8192);
     self->buf2=malloc(self->blen2=8192);
     self->buf3=malloc(self->blen3=8192);
